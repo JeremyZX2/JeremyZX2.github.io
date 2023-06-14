@@ -10,3 +10,4 @@ Birefly discussed about what is PP, what is my plan and what do I need to do in 
 .
 # Visuals Creating 2023/6/5 ~ 2023/6/9
 [Link to the Visuals ](https://keystoneacademy-my.sharepoint.com/:w:/r/personal/xiyan_zhang_student_keystoneacademy_cn/_layouts/15/Doc.aspx?sourcedoc=%7B43C76E13-1899-4109-A417-73B89F3CFE86%7D&file=JeremyZhang_6visuals.docx&action=default&mobileredirect=true)
+ ![Timeline]{JeremyZX2/JeremyZX2.github.io/assets/img/PPtimeline.png}
